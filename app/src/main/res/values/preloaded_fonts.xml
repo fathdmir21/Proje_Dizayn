@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/audiowide</item>
+        <item>@font/cairo_extralight</item>
+        <item>@font/give_you_glory</item>
+        <item>@font/telex</item>
+        <item>@font/vidaloka</item>
+    </array>
+</resources>

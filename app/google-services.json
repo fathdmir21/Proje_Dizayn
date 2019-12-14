@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "673893991211",
+    "firebase_url": "https://timecoach.firebaseio.com",
+    "project_id": "timecoach",
+    "storage_bucket": "timecoach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673893991211:android:b91bb1101c079bf6a17b6e",
+        "android_client_info": {
+          "package_name": "com.example.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673893991211-hsur0dh680grvjdrsjkubpksberqs6p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.deneme",
+            "certificate_hash": "1c9cd0286d3c55e35b1bf92badcef274b6f7e211"
+          }
+        },
+        {
+          "client_id": "673893991211-v78mfe3q6br4isbsh1aoneqvvpetcgt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU0gytnIqAustXaJhEvY1ey63y7ydDZIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673893991211-v78mfe3q6br4isbsh1aoneqvvpetcgt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
