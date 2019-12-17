@@ -76,7 +76,7 @@
             android:foreground="?android:attr/selectableItemBackground"
             android:text="Giriş Yap"
             android:textAllCaps="false"
-            android:textColor="#2664CE"
+            android:textColor="#3A3A3C"
             android:textSize="17sp"
             android:id="@+id/giris"/>
 
